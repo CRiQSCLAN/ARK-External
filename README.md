@@ -6,7 +6,7 @@ This is a 8 hours project that I made after buying Ark Ascended.
 
 ## Installation
 
-Install my-project with npm
+git clone the project or just download it directly
 
 ```bash
 git clone
@@ -20,6 +20,7 @@ This source was written because there are no open source external sources for Ar
 ## Screenshots
 
 ![Screenshot 1](https://cdn.discordapp.com/attachments/1320004380375908416/1332005345190608938/image.png?ex=6793ae25&is=67925ca5&hm=bae3adb8d07ffb7b9ae190b78989cd8988612e986cc5501e4591537a2b8678b9&)
+
 ![Screenshot 2](https://cdn.discordapp.com/attachments/1320004380375908416/1332005477659312252/image.png?ex=6793ae45&is=67925cc5&hm=a77c8c6cd15e84304b1a0e8239fa1ec63d304909526a55d99ca2120c0c1cbf44&)
 
 

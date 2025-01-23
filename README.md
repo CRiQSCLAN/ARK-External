@@ -34,4 +34,9 @@ For the driver used to test this source. You can find the needed driver to run t
 ## Support
 
 I don't offer any support for this. Using this driver will get you INSTANTLY banned by BE, so you have to add your own bypass or use this source just for learning.
+For the driver used to test this source. You can find the needed driver to run this thing on his github.
+Use 
+- [KDMapper Custom Imports]([https://github.com/paidtoomuch/hv.sol-fortnite/tree/main/fortnite-driver](https://github.com/CRiQSCLAN/KDMapper))
+To map the driver
+
 
